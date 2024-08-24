@@ -5,9 +5,9 @@ Hi! I am a Computer Engineering student from 🇪🇨 in 🇨🇦.
 
 I have a strong passion for solving problems and technology is just another medium. I truly think **Innovation** is the consequence of solving a problem, not the cause.
 
-Let's uncomplicate things, master the basics before reaching for the most complete and newest framework or the most powerful architecture available.
+Let's uncomplicate things, master the basics before reaching for the most complete and newest framework or the most powerful architecture.
+![Screenshot 2024-08-24 162755](https://github.com/user-attachments/assets/e7338733-1c8c-421b-9913-6a22d6373942)
 
-![Screenshot 2024-08-24 144509](https://github.com/user-attachments/assets/08875bae-321e-42a7-b837-edbfbe2b8ba2)
 
 
 ## :computer: My Stack
@@ -36,21 +36,4 @@ Let's uncomplicate things, master the basics before reaching for the most comple
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
-
-<!--
-**D4ario0/D4ario0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
