@@ -3,7 +3,10 @@
 ## 🆔About Me
 Hi! I am a Computer Engineering student from 🇪🇨 in 🇨🇦.
 
-I have a strong passion for solving problems and technology is just the medium. I truly think **Innovation** is the consequence of solving a problem not the cause, so let's uncomplicate things, master our tools before reaching for the fastest framework or the most powerful architecture available. 
+I have a strong passion for solving problems and technology is just another medium. I truly think **Innovation** is the consequence of solving a problem, not the cause.
+
+Let's uncomplicate things, master the basics before reaching for the most complete and newest framework or the most powerful architecture available.
+
 ![Screenshot 2024-08-24 144509](https://github.com/user-attachments/assets/08875bae-321e-42a7-b837-edbfbe2b8ba2)
 
 
