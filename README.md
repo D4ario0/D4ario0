@@ -1,5 +1,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-garcia-1486b8149/)
 
+Hey! I'm Alex, a Computer Engineering student from Ecuador 🇪🇨.
+
+I currently live Ontario, Canada 🇨🇦.
+
+KISS Principle🍃.
 
 ## :computer: My Stack
 ### Proficient with:
@@ -21,12 +26,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🆔About Me
-Hi! I am a Computer Engineering student from 🇪🇨 in 🇨🇦.
-
-I have a strong passion for solving problems and technology is just another medium. I truly think **Innovation** is the consequence of solving a problem, not the cause.
-
-Let's uncomplicate things, master the basics before reaching for the most complete and newest framework or the most powerful architecture.
 
 ![Screenshot 2024-08-24 163427](https://github.com/user-attachments/assets/1cfd35bc-8c12-4c58-ab36-4cede880c227)
