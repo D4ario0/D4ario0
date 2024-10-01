@@ -1,7 +1,8 @@
 ### Hey! I'm Alex Garcia, a Computer Engineering student and self-taught Software Developer based in Ottawa, ON 🇨🇦 🍁.
+
 ### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-garcia-1486b8149/)
-#### In the last 2 years  I've worked creaeting creating `web-apps`, `mobile-apps`, `microservices`, `cli-tools` and `testing frameworks`.
-#### I am currently leading a team of engineers for a start-up focused on breaching the gap between recruiters and, students and new-grads looking fo internships.
+#### In the last 2 years  I've worked creating creating `web-apps`, `mobile-apps`, `microservices`, `cli-tools` and `testing frameworks`.
+#### I am currently leading a team of engineers for a start-up that aims to bridge the gap between students and recruiters integrating AI-powered features for efortless candidate filtering.
 
 
 ``` python
@@ -19,5 +20,6 @@ class Alex:
 ```
 
 #### KISS Principle 🍂
+
 
 
