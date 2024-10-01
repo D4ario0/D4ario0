@@ -4,7 +4,6 @@
 #### In the last 2 years  I've worked creating creating `web-apps`, `mobile-apps`, `microservices`, `cli-tools` and `testing frameworks`.
 #### I am currently leading a team of engineers for a start-up that aims to bridge the gap between students and recruiters integrating AI-powered features for efortless candidate filtering.
 
-
 ``` python
 class Alex:
 
@@ -20,6 +19,4 @@ class Alex:
 ```
 
 #### KISS Principle 🍂
-
-
-
+<img src="./octo.gif" alt="drawing" width="200"/> 
